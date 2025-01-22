@@ -1,0 +1,10 @@
+{
+    "name": "play-api",
+    "version": "1.0.0",
+    "description": "Serverless Spotify API",
+    "main": "api/now-playing.js",
+    "scripts": {
+      "start": "vercel dev"
+    },
+    "dependencies": {}
+  }
